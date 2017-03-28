@@ -1,0 +1,17 @@
+{
+  "name": "zap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kunall Banerjee <yeskunall96@gmail.com> (https://kimchi.surge.sh/)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "3.18.0",
+    "eslint-config-airbnb-base": "11.1.2",
+    "eslint-plugin-import": "2.2.0"
+  }
+}
